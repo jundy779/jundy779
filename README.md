@@ -6,4 +6,5 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jundy779&show_icons=true&icon_color=FFFF00&theme=dark&title_color=FFFF00&include_all_commits=true)](https://github.com/jundy779/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundy779&icon_color=FFFF00&theme=dark&title_color=FFFF00&layout=compact)](https://github.com/jundy779/github-readme-stats)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=ff86c75f92d4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ![LoliCount](https://count.getloli.com/get/@jundy779?theme=rule34)
