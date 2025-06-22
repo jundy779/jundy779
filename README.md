@@ -1,11 +1,27 @@
-## Hey 👋, This is Muhammad Jundy Rabbani
-[![Gmail Badge](https://img.shields.io/badge/-jundyfauzi789@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jundyfauzi789@gmail.com)](mailto:jundyfauzi789@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/instagram-jundy779-blue?style=flat&logo=instagram&logoColor=blue&link=https://www.instagram.com/muh_jundy_r/)](https://www.instagram.com/muh_jundy_r/) [![Github Badge](https://img.shields.io/badge/-jundy779-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jundy779/)](https://www.github.com/jundy779/) [![Portfolio Badge](https://img.shields.io/badge/webssh-web-blue?style=flat&link=https://www.fusiontempest.my.id/)](https://www.technovpn.biz.id/) <p align='left'>I am an undergraduate student from Depok, Indonesia. I am looking for full time opportunities. I am currently working on a small project and do what I like, because if we like the work, we'd love to do it.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=jundy779 alt=jundy779 /> </p>
+# 💫 About Me:
+Hey 👋, This is Muhammad Jundy Rabbani<br>I am an undergraduate student from Depok, Indonesia. I am looking for full time opportunities. I am currently working on a small project and do what I like, because if we like the work, we'd love to do it.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=jundy779&show_icons=true&icon_color=FFFF00&theme=dark&title_color=FFFF00&include_all_commits=true)](https://github.com/jundy779/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jundy779&icon_color=FFFF00&theme=dark&title_color=FFFF00&layout=compact)](https://github.com/jundy779/github-readme-stats)
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=ff86c75f92d4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-![LoliCount](https://count.getloli.com/get/@jundy779?theme=rule34)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jundy779)](https://github.com/jundy779/github-profile-trophy)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muh_jundy_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-jundy-rabbani) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fusionifydigital) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fusionify_digital@vk.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jundy779&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jundy779&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jundy779&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jundy779&theme=neon&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jundy779&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jundy779&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
